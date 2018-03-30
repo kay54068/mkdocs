@@ -1,9 +1,9 @@
 site_name: MkDocs
-site_url: http://www.mkdocs.org
+site_url: http://kay54068.github.io/mkdocs/
 site_description: Project documentation with Markdown.
 site_author: MkDocs Team
 
-repo_url: https://github.com/mkdocs/mkdocs/
+repo_url: https://github.com/kay54068/mkdocs/
 edit_uri: ""
 
 pages:
